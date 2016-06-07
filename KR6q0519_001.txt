@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:53:32.080635
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:55
 #+TITLE: 翼菴禪師語錄
 #+PROPERTY: CBETA_ID J37nB394
 #+PROPERTY: ID KR6q0519
@@ -10,11 +10,11 @@
 #+PROPERTY: LASTPB <pb:KR6q0519_J_001-0667a> 
 #+PROPERTY: JUAN 1
 
-國清語錄
+* 國清語錄
  翼菴禪師語錄卷之一¶
 小師序燈等記¶
 
-住天台國清禪寺語錄一¶
+** 住天台國清禪寺語錄一¶
 
 據室諸佛心量廣一尺此方地面廣一尺諸佛心量¶
 廣一丈此方地面廣一丈諸佛法身長一尺箇條拄¶
